@@ -1,0 +1,14 @@
+{
+  "name": "my-vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "node ./mini-vite.js"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.5",
+    "koa": "^2.13.1"
+  }
+}
